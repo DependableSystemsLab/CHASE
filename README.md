@@ -15,6 +15,10 @@ In this repository, URET is integrated and tested on the Deep Residual Time Seri
 The victim model was submitted to the Blood Glucose Level Prediction Challenge hosted by Ohio University and evaluated on the OhioT1DM dataset. 
 For more information on the challenge and the dataset, please check the following link: https://sites.google.com/view/kdh-2020/bglp-challenge
 
+## Steps to obtain dataset
+```
+In the paper titled "Systematically Assessing the Security Risks ofAI/ML-enabled Connected Healthcare Systems", we used the OhioT1DM dataset. The dataset is protected under an NDA and therefore we cannot disclose it publicly. However, it can be obtained from the Ohio University by following the instructions listed here: https://webpages.charlotte.edu/rbunescu/data/ohiot1dm/OhioT1DM-dataset.html
+```
 
 ## Steps to set up and run with URET integration
 1. Install requirements
